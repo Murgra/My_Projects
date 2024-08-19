@@ -4,3 +4,4 @@
 - Simple Password Manager
 - Analysis of space missions 
 - Game with the names of the states 
+- Flight analysis final project that completes the CodersLab data analyst course.
